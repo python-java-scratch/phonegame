@@ -1,4 +1,3 @@
-cn.tuanjie.minihost@1.0.17
 com.unity.ai.navigation@1.1.5
 com.unity.cinemachine@2.10.5
 com.unity.collab-proxy@2.6.0
